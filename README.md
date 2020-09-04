@@ -1,0 +1,7 @@
+实现简易版webpack
+
+用于加深对webpack构建流程的理解
+
+src目录下为源代码
+
+lib下为自己实现的简易webpack
